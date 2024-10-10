@@ -1,2 +1,2 @@
 # LeetCodeProblems
-Collection of solutions to daily LeetCode problems
+Collection of my solutions to daily LeetCode problems
